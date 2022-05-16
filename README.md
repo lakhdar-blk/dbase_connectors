@@ -3,7 +3,7 @@
 This package help developers to connect thier projects with different databases including sqlite, sqlserver, mysql, mariadb and postgresql. Developers don't have to search which package must be installed to connect with thier databases. 
 
 ## Pypi
-[Link text Here](https://pypi.org/project/Dbase-connectors/)
+[Pypi Link](https://pypi.org/project/Dbase-connectors/)
 
 ## Installation
 pip install Dbase-connectors
